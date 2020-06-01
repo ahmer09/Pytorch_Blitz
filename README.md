@@ -1,2 +1,2 @@
 # Pytorch_Blitz
-Collection of all notebooks containing pytorch libraries
+Collection of all rough notebooks touching different pytorch libraries
